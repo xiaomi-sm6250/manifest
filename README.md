@@ -41,7 +41,7 @@ $ cd WORKSPACE
 
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
-$ repo init -u https://github.com/AOSPA/manifest -b beryl
+$ repo init -u https://github.com/xiaomi-sm6250/manifest -b beryl
 ```
 
 ### Downloading the source tree ###
